@@ -1,0 +1,19 @@
+# PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Python virtual environments and caches
+.venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# OS-specific cruft
+.DS_Store
+Thumbs.db
